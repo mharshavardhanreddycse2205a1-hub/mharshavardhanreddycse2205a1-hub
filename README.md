@@ -1,5 +1,5 @@
 ## Hi there 👋 harsha reddy 
-[![harsha reddy statscard](https://kasroudra-stats-card.onrender.com/user?user=mharshavardhanreddycse2205a1-hub&layout=compact&theme=buefy)](https://github.com/mharshavardhanreddycse2205a1-hub/github-stats-card)
+[![harsha reddy GitHub stats](https://github-readme-stats.vercel.app/api?username=mharshavardhanreddycse2205a1-hub)](https://github.com/mharshavardhanreddycse2205a1-hub/github-readme-stats)
 
 
 Welcome to my resume repository! Here you'll find my professional resume, showcasing my skills, experience, and education
