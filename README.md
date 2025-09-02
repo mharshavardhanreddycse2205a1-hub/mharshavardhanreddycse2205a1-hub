@@ -7,6 +7,7 @@ Welcome to my resume repository! Here you'll find my professional resume, showca
 
 java programing
 ![Static Badge](https://img.shields.io/badge/java%20script-yellow?style=flat-square&logo=javascript&logoColor=orange&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/python-green?style=flat-square&logo=python&logoColor=red&logoSize=auto)
 
 ## 📫 Contact
 
