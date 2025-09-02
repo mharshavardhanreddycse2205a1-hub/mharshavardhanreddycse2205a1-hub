@@ -1,5 +1,6 @@
-## Hi there 👋 harsha reddy
-# Resume of [Your Name]
+## Hi there 👋 harsha reddy 
+[![harsha reddy statscard](https://kasroudra-stats-card.onrender.com/user?user=mharshavardhanreddycse2205a1-hub&layout=compact&theme=buefy)](https://github.com/mharshavardhanreddycse2205a1-hub/github-stats-card)
+
 
 Welcome to my resume repository! Here you'll find my professional resume, showcasing my skills, experience, and education
 
